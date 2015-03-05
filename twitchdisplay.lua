@@ -15,7 +15,7 @@
 -- startup
 
 -- Twitch Name of the Streamer
-streamid = "Bacon_Donut"
+streamid = "DrArticuno"
 
 -- Set the Y line for where you want the different bits to go.
 line_streamer = 1
